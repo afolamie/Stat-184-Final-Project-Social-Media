@@ -1,10 +1,8 @@
-# Project Title
-
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+Social Media App Popularity & Exposure Analysis
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This project analyzes social media usage data to determine which apps appear to have the most popularity and exposure. The goal is to compare platforms using usage and engagement indicators and summarize which apps stand out most clearly.
 
 ### Interesting Insight
 
@@ -16,8 +14,8 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+The data used in this project comes from the Kaggle dataset **“Social Media Usage Dataset(Applications)”** by **Bhadra Mohit**. The dataset contains app-level usage and engagement-style variables across several major platforms and is intended for exploring patterns in time, posts, likes, and follows (as described on the dataset page).
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Eshaan Arakoni & Afolami Elabanjo afolamie@gmail.com
