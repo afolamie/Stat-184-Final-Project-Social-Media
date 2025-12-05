@@ -6,7 +6,7 @@ This project analyzes social media usage data to determine which apps appear to 
 
 ### Interesting Insight
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+Despite Snapchats lack of a way to outsource content like Tiktok or Instagram(via For You page algorithms), statistically it is the most popular and engaging social media according to the dataset. 
 
 ## Repo Structure
 
